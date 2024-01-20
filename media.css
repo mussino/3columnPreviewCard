@@ -1,6 +1,8 @@
 /* small tablets*/
 @media (min-width: 620px) {
-
+    body {
+        flex-direction: row;
+    }
 }
 
 /* large tables & laptops */
